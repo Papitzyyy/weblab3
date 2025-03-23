@@ -331,7 +331,7 @@ main p {
         position: relative; /* Fixed so it stays visible */
         left: -250px; /* Initially hidden */
         top: -5;
-        height: auto;
+        height: fit-content;
         background: rgba(88, 166, 255, 0.9);
         color: white;
         padding: 20px;
